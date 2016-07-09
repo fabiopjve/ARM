@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\lib\dl4tpannl8n.r79</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tpannl8n.h</file>
+      <file>$PROJ_DIR$\str71x_lnk.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\exemplo5_22.d79</file>
+      <file>$PROJ_DIR$\Debug\Obj\exemplo5_22.pbd</file>
+      <file>$PROJ_DIR$\MEU_STR71x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\MEU_STR71x_init.r79</file>
+      <file>$PROJ_DIR$\Debug\Exe\exemplo5_22.a79</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_22.r79</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_22.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\stdio.h</file>
+      <file>$PROJ_DIR$\simb_STR71x.h</file>
+      <file>$PROJ_DIR$\MEU_STR71x_init.s</file>
+      <file>$PROJ_DIR$\ex5_22.c</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\yvals.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\exemplo5_22.d79</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 2 9 11 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\exemplo5_22.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 6 10</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MEU_STR71x_init.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ex5_22.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 15 14 19 12 1 18 5 4 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 15 14 19 12 18 5 4 3</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

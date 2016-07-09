@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\str71x_lnk.xcl</file>
+      <file>$PROJ_DIR$\Debug\Exe\exemplo5_5.d79</file>
+      <file>$PROJ_DIR$\Debug\Obj\MEU_STR71x_init.r79</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tpannl8n.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_2.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\exemplo5_5.a79</file>
+      <file>$PROJ_DIR$\simb_STR71x.h</file>
+      <file>$PROJ_DIR$\ex5_2.c</file>
+      <file>$PROJ_DIR$\MEU_STR71x_init.s</file>
+      <file>$PROJ_DIR$\MEU_STR71x.h</file>
+      <file>$PROJ_DIR$\ex5_5.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_5.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\exemplo5_5.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_5.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_2.r79</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\exemplo5_5.d79</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 0 2 11 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ex5_2.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MEU_STR71x_init.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ex5_5.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 1 5</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\exemplo5_5.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 13</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>exemplo5_8/Debug</Project><Project>exemplo5_6/Debug</Project><Project>exemplo5_20/Debug</Project><Project>exemplo5_10/Debug</Project><Project>exemplo5_14/Debug</Project><Project>exemplo5_4/Debug</Project><Project>exemplo2_1/Debug</Project><Project>exemplo5_21/Debug</Project><Project>exemplo5_12/Debug</Project><Project>exemplo5_5/Debug</Project><Project>exemplo5_18/Debug</Project><Project>exemplo5_1/Debug</Project><Project>exemplo5_11/Debug</Project><Project>exemplo5_7/Debug</Project><Project>exemplo5_19/Debug</Project><Project>exemplo5_15/Debug</Project><Project>exemplo5_17/Debug</Project><Project>exemplo5_22/Debug</Project><Project>exemplo5_2/Debug</Project><Project>exemplo5_13/Debug</Project><Project>exemplo5_usb/Debug</Project><Project>exemplo6_1/Debug</Project><Project>exemplo5_9/Debug</Project><Project>exemplo5_3/Debug</Project><Project>exemplo5_16/Debug</Project><Project>exemplo6_4/Debug</Project></CurrentConfigs><CurrentProj>exemplo6_4</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>191</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+      <CodeCoveragePlugin/>
+      <Profiling/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17713-8532</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>exemplo2_1</ExpandedNode><ExpandedNode>exemplo5_1</ExpandedNode><ExpandedNode>exemplo5_2</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28879-9550</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-008eb008><key>iaridepm1</key></Toolbar-008eb008></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>520</Bottom><Right>281</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>262467</sizeHorzCY><sizeVertCX>221094</sizeVertCX><sizeVertCY>685039</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>200</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>262467</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>262467</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

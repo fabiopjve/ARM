@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_2.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\MEU_STR71x_init.r79</file>
+      <file>$PROJ_DIR$\Debug\Exe\exemplo5_3.d79</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_3.pbi</file>
+      <file>$PROJ_DIR$\MEU_STR71x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\71x_vect.r79</file>
+      <file>$PROJ_DIR$\ex5_2.c</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tpannl8n.r79</file>
+      <file>$PROJ_DIR$\str71x_lnk.xcl</file>
+      <file>$PROJ_DIR$\MEU_STR71x_init.s</file>
+      <file>$PROJ_DIR$\ex5_3.c</file>
+      <file>$PROJ_DIR$\71x_init.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\exemplo5_3.pbd</file>
+      <file>$PROJ_DIR$\Debug\Exe\exemplo5_3.a79</file>
+      <file>$PROJ_DIR$\71x_vect.s</file>
+      <file>$PROJ_DIR$\simb_STR71x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_2.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\71x_init.r79</file>
+      <file>$PROJ_DIR$\71x_int.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\ex5_3.r79</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\exemplo5_3.d79</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 8 17 5 19 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ex5_2.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MEU_STR71x_init.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ex5_3.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 15 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 15 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 2 13</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\71x_init.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\exemplo5_3.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\71x_vect.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
